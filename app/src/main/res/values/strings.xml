@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">alcCodeChallenge</string>
+    <string name="home_title">ALC 4 Phase 1</string>
+    <string name="profile_title">Profile</string>
+    <string name="webview_title">About ALC</string>
+    <string name="alc">Andela Learning Community</string>
+    <string name="profile_name">David Legend</string>
+    <string name="occupation">Software Engineer</string>
+    <string name="skillSet">Skills</string>
+    <string name="title_alc">Welcome to ALC 4.0</string>
+    <!--<string name="about_alc">ABOUT ALC</string>-->
+    <string name="my_profile">MY PROFILE</string>
+
+    <string name="track_title">Track</string>
+    <string name="track">Android</string>
+    <string name="email_title">Email</string>
+    <string name="email">davidcobbina47@gmail.com</string>
+    <string name="countryTitle">Country</string>
+    <string name="country">Ghana</string>
+    <string name="phoneNumberTitle">Phone</string>
+    <string name="phoneNumber">(233)549546867</string>
+    <string name="slackUserNameTitle">Slack</string>
+    <string name="slackUserName">\@David Legend</string>
+    <string name="zipCodeTitle">Zip Code</string>
+    <string name="zipCode">00233</string>
+
+    <string name="android">Android</string>
+    <string name="flutter">Flutter</string>
+    <string name="react">React</string>
+    <string name="laravel">Laravel</string>
+    <string name="javascript">Javascript</string>
+    <string name="dart">Dart</string>
+
+
+    <string name="about">
+        Dedication, Honor, Courage, Commitment and Balance !
+    </string>
+
+    <string name="about_alc">
+        A community empowering the next generation of African technology leaders.
+    </string>
+
+    <string name="card_title">David Legend</string>
+    <string name="card_details">
+        Give a man a program, frustrate him for a day.
+        Teach a man to program, frustrate him for a lifetime.
+    </string>
+</resources>

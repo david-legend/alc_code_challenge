@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--<style name="CustomTabTextAppearance" parent="TextAppearance.Design.Tab">-->
+        <!--<item name="android:textColor">@color/grey_10</item>-->
+        <!--<item name="android:textStyle">bold</item>-->
+        <!--<item name="textAllCaps">true</item>-->
+    <!--</style>-->
+
+    <style name="TextAppearance.Subhead.Bold" parent="@style/TextAppearance.AppCompat.Subhead">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Button.Accent.Borderless" parent="@style/Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:textColor">@color/purple_700</item>
+    </style>
+    <!--<style name="TextAppearance.Medium.Bold" parent="@style/TextAppearance.AppCompat.Medium">-->
+        <!--<item name="android:textStyle">bold</item>-->
+    <!--</style>-->
+</resources>
